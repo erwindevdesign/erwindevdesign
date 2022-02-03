@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @erwindevdesign
 
-<p><img align='left' src='https://github.com/erwindevdesign/erwindevdesign/blob/20020a0ed5cf749270fe2d6801911b93b22d823c/devuser.gif' 'width='300'height='300'/></p>
+
+<p><img align='right' src='https://github.com/erwindevdesign/erwindevdesign/blob/35edd8a644e251f7e98b8c7f6496ad230f9e7335/devuser-log.gif' 'width='300'height='300'/></p>
