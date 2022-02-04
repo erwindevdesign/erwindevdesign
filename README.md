@@ -7,5 +7,4 @@
 -Enthusiastic, self-taught and an eternal learner of life.
 
 -Currently focused on web development and its application boost to human capital.
-<br>
-:copyright:
+
