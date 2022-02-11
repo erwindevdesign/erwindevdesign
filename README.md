@@ -6,11 +6,7 @@
 
 
 <p>
--Hi! I am Erwin F.   :alien:   Graphic   :art:   and Web   :computer:   Designer, 
-integrating different skills that have allowed me to lead high performance teams, 
-detonating the human and professional -skills of Collaborators  :octocat:   and Leaders  
-:sunglasses:,   in addition to achieving standards of satisfaction and quality oriented 
-to Product && Client.
+-Hi! I am Erwin F.   :alien:   Graphic   :art:   and Web   :computer:   Designer.
 
 -Enthusiastic, self-taught and an eternal learner of life.
 
