@@ -6,10 +6,10 @@
 
 
 <p>
--Hi! I am Erwin F.   :alien:   Graphic   :art:   and Web   :computer:   Designer.
 
--Enthusiastic, self-taught and an eternal learner of life.
 
--Currently 
-focused on web development and its application boost to human capital.
-</p>
+Hi! I am Erwin Francisco, web development and interactive designer.
+
+Enthusiastic, self-taught and an eternal learner of life.
+
+Currently focused on the development of technology tools to increase the welfare social of human capital </p>
