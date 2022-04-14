@@ -3,6 +3,4 @@
 <p>
 Hi! I am Erwin Francisco, web development and interactive designer.
 
-Enthusiastic, self-taught and an eternal learner of life.
-
 Currently focused on the development of technology tools to increase the welfare social of human capital </p>
