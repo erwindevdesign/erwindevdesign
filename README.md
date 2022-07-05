@@ -1,10 +1,10 @@
 ![](https://i.imgur.com/CobZE1e.png)
 
-# Hello ! :wave: 
-## I am Erwin 
-### I web development and interactive designer
+## Hello there !! :wave: 
+## My name is Erwin Francisco
 
-Currently focused the development of technology tools to increase the welfare social of human capital 
+### I web development :bug: and interactive designer :butterfly:
+### Interested in create of digital solutions :nut_and_bolt: increase the welfare of human capital :wrench: in the actuality society. 
 
 I have experience in:
 
@@ -12,7 +12,12 @@ I have experience in:
 <p align='center'>
 <a href=''><img src='https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white'></a>&nbsp;&nbsp;
 <a href=''><img src='https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white'></a>&nbsp;&nbsp;
-
+</p>
+<p align='center'>
+<a href=''><img src='https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white'></a>&nbsp;&nbsp;
+<a href=''><img src='https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black'></a>&nbsp;&nbsp;
+<a href=''><img src='https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white'></a>&nbsp;&nbsp;
+<a href=''><img src='https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6'></a>&nbsp;&nbsp;
 </p>
 
 
@@ -25,9 +30,7 @@ I have experience in:
 </p>
 
 
-<p align='center'>
-<a href="[url=https://imgur.com/On1VJCK][img]http://i.imgur.com/On1VJCKundefined.gif[/img][/url]"><img src="https://i.imgur.com/On1VJCK.gif" title="source: imgur.com" width=250px /></a>
-</p>
+
 
 Contact me on:
 
@@ -37,11 +40,6 @@ Contact me on:
   
 </p>
 
-<p align='center'>
-<a href=''><img src='https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white'></a>&nbsp;&nbsp;
-<a href=''><img src='https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black'></a>&nbsp;&nbsp;
-<a href=''><img src='https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white'></a>&nbsp;&nbsp;
-<a href=''><img src='https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6'></a>&nbsp;&nbsp;
-</p>
+<img align='right' width='250' height='250' src='https://i.imgur.com/On1VJCK.gif'></a>
 
 
