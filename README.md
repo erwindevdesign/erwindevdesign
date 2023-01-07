@@ -1,8 +1,9 @@
-<img align='right' width='320' height='320' src='https://i.imgur.com/On1VJCK.gif'></a>
-
 ## My name is Erwin Francisco.
 
 ### I'm a web developer and interactive designer.
+
+<img align='right' width='320' height='320' src='https://i.imgur.com/On1VJCK.gif'></a>
+
 ### Interested in creating digital solutions.
 
 This is my site from learning path and contributions to the community for you **review** :eyes:, **fork**, **star** :star: and **issue** any repository. 
