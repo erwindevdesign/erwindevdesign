@@ -1,13 +1,13 @@
 ## Hello! 👋🏻 My name is Erwin 
 
-I am a <a style="color:#1D70B7; font-weight: bold;">web developer</a> and <a style="color:#1D70B7; font-weight: bold; ">creative digital designer</a> with a strong focus on crafting **digital solutions** for **smart manufacturing**. I have over 5 years of experience in web development and digital design, and I have worked on a variety of projects, from simple websites to complex applications. I also have experience in smart manufacturing, and I am interested in using my skills to <a style="color:#FF5253">create solutions</a> that help businesses to be <a style="color:#F29100">more efficient and productive</a>.
+I am a **<a style="color:#1D70B7; font-weight: bold;">web developer</a>** and **<a style="color:#1D70B7; font-weight: bold; ">creative digital designer</a>** with a strong focus on crafting **digital solutions** for **smart manufacturing**. I have over 5 years of experience in web development and digital design, and I have worked on a variety of projects, from simple websites to complex applications. I also have experience in smart manufacturing, and I am interested in using my skills to **<a style="color:#FF5253">create solutions</a>** 🧪 that help businesses to be **<a style="color:#F29100">more efficient and productive</a>** 🏗.
 
 In my spare time, I enjoy learning about new technologies, working on open-source projects, and contributing to the web development community. I am also an avid reader and I enjoy learning about a variety of topics.
 
-If you are interested in learning more about my work, visit my website or follow me on <a href="https://www.linkedin.com/in/erwindeveloper/"  style="color:#1D70B7; font-weight: bold;" target="_blank" rel="noopener noreferrer">LinkedIn</a>. 
-
-<img align='right' width='auto' height='320' src='https://i.imgur.com/On1VJCK.gif'></a>
-
+If you are interested in learning more about my work, visit my website or follow me on <a href="https://www.linkedin.com/in/erwindeveloper/" target="_blank"  style="color:#1D70B7; font-weight: bold;" rel="noopener noreferrer">LinkedIn</a>. 
+</br> 
+<img align='right' width='auto' height='320' src='https://i.imgur.com/On1VJCK.gif'>
+</br> 
 I would also be happy to answer any questions you may have. 😀 
 
 
@@ -47,9 +47,9 @@ I would also be happy to answer any questions you may have. 😀
 </br> 
 <p align='center' style="color:#1D70B7; font-weight: bold;">@erwindevdesign</p> 
 <p align='center'>
-<a href="[https://imgur.com/05pckYQ](https://www.linkedin.com/in/erwindeveloper/)" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/05pckYQ.png" title="LinkedIn" /></a>
-<a href="https://www.instagram.com/erwindevdesign/" target="_blank" rel="noopener noreferrer"><img style="margin-inline:15px" src="https://i.imgur.com/ziLmhGy.png" title="TikTok" /></a>
-<a href="https://www.tiktok.com/@erwindevdesign" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/riwyB8b.png" title="Instagram" /></a> 
+<a href="https://www.linkedin.com/in/erwindeveloper/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/05pckYQ.png" title="LinkedIn" /></a>
+<a href="https://www.tiktok.com/@erwindevdesign" target="_blank" rel="noopener noreferrer"><img style="margin-inline:15px" src="https://i.imgur.com/ziLmhGy.png" title="TikTok" /></a>
+<a href="https://www.instagram.com/erwindevdesign/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/riwyB8b.png" title="Instagram" /></a> 
 </p>
 
 
